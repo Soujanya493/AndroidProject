@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MeaningsSysTest</string>
+    <string name="search">Search</string>
+    <string name="empty_validation">Please enter Acronym/Initialism</string>
+    <string name="no_data_found">No data found</string>
+    <string name="freq">Freq</string>
+</resources>
